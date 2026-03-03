@@ -6,7 +6,7 @@ import pytesseract
 import cv2
 import re
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv(8632769891:AAHu-A5yXC_8BQyrsgXavjpfqkbVyMDSbcY)
 
 logging.basicConfig(level=logging.INFO)
 
